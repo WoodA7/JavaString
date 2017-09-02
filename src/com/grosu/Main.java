@@ -18,6 +18,9 @@ public class Main {
         arrayOfString arr = new arrayOfString();
         arr.init();
 
+
+
+        
     }
 
 }
